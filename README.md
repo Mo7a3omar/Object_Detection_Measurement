@@ -1,12 +1,11 @@
 # Object Measurement and Detection
 This project uses OpenCV and YOLOv5 to detect objects in images and measure their dimensions in centimeters. The system excludes human detections and focuses on other objects, labeling each detected object with its name and dimensions.
 
-#Installation
+# Installation
 Clone the repository from GitHub and navigate to the project directory.
 
-#Usage
+# Usage
 You can use this project in two modes:
-
 1- Processing a Static Image: Detect objects in a static image and measure their dimensions.
 2- Real-Time Detection Using Webcam: Detect objects in real-time using a webcam.
 
